@@ -17,6 +17,7 @@
   'ipp'
   'tcc'
   'tpp'
+  'as'
 ]
 'firstLineMatch': '(?i)-\\*-[^*]*(Mode:\\s*)?C\\+\\+(\\s*;.*?)?\\s*-\\*-'
 'name': 'C++'
