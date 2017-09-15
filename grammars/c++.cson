@@ -18,6 +18,7 @@
   'tcc'
   'tpp'
   'as'
+  'bod_monst'
 ]
 'firstLineMatch': '(?i)-\\*-[^*]*(Mode:\\s*)?C\\+\\+(\\s*;.*?)?\\s*-\\*-'
 'name': 'C++'
